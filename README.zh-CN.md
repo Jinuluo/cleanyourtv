@@ -1,3 +1,5 @@
+> Sony 国行 XR-55A90J 定制分支：四应用顺序、UI/图标修改与构建方法见 [A90J.md](A90J.md)。
+
 <p align="center">
   <a href="https://cleanyour.tv"><img src="docs/banner.png" alt="CleanYourTV：让电视桌面回归简洁" width="800"></a>
 </p>
